@@ -10,7 +10,7 @@
 <p id="text">This is my first GitHub project.</p>
 
 <button onclick="changeText()">Click Me</button>
-
+haj
 <script src="script.js"></script>
 </body>
 </html>
